@@ -52,7 +52,8 @@ Treatment Effect Inference with Many Instruments and Many Control Variables.
 2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han.
 Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 *Submitted*.
-(Co-first Author)
+(Co-first Author).
+
 
 
 2. Yuan Gao, **Yeheng Ge**, Jian Huang.
@@ -60,8 +61,16 @@ Sufficient Representation Learning with Diffusion Models.
 *In* *Progess*.
 (Alphabetical Order).
 
-<!-- 
+
+
+2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
+Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
+*Submitted*.
+(Alphabetical Order).
+
+
+
 1. **Yeheng Ge**, Jian Huang.
 Treatment Effect Estimation with Sufficient Representation  Learning and Transfer.
 *Submitted*.
-(Co-first Author) -->
+(Co-first Author)
