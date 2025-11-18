@@ -54,6 +54,12 @@ Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 *Submitted*.
 (Co-first Author)
 
+
+2. Yuan Gao, **Yeheng Ge**, Jian Huang.
+Sufficient Representation Learning with Diffusion Models.
+*In* *Progess*.
+(Alphabetical Order).
+
 <!-- 
 1. **Yeheng Ge**, Jian Huang.
 Treatment Effect Estimation with Sufficient Representation  Learning and Transfer.
