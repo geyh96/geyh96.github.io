@@ -71,4 +71,3 @@ Uniform Inference for Online Functional M-estimator with Stochastic Gradient Des
 1. **Yeheng Ge**, Jian Huang.
 Treatment Effect Estimation with Sufficient Representation  Learning and Transfer.
 *In* *Progess*.
-(Co-first Author)
