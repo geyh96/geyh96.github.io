@@ -10,22 +10,22 @@ author_profile: true
 
 1. **Yeheng Ge**, Tao Li, Xingdong Feng, Mengyun Wu, Hailong Liu (2024). 
 Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
-    - *Biometrics*, 80, ujae158.
+**Biometrics**, 80, ujae158.
 
 
 1. **Yeheng Ge**, Sijia Zhang, Xiao Zhang (2024). 
 False Discovery Rate Control for High Dimensional Cox Model with Uneven Data Splitting.
-*Journal of Statistical Computation and Simulation*, 94(7), 1462-1493.
+**Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
 (Alphabetical Order).
 
 
 2. Xin He, **Yeheng Ge**,  Xingdong Feng (2023). 
 Structure Learning via Unstructured Kernel-based M-estimation.
-*Electronic Journal of Statistics*, 17(2): 2386-2415.
+**Electronic Journal of Statistics**, 17(2): 2386-2415.
 
 3. Mengyun Wu, Fan Wang, **Yeheng Ge**, Shuangge Ma, Yang Li (2023). 
 Bi-level Structured Functional Analysis for Genome-wide Association Studies.
-*Biometrics*, 79, 3359–3373.
+**Biometrics**, 79, 3359–3373.
 
 
 ## Working Papers
