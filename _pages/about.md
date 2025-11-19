@@ -10,7 +10,7 @@ redirect_from:
 
 ![](../images/webpage.jpg)
 
-# About Me
+
 
 Hi, My name is Yeheng GE(葛晔恒).
 
