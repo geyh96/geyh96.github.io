@@ -10,13 +10,14 @@ redirect_from:
 
 ![](../images/webpage.jpg)
 
+# About Me
 
 Hi, My name is Yeheng GE(葛晔恒).
 
 I am now a Postdoc Fellow in Statistics.
 I am interested in the representation learning and causal inference problems.
 
-# Work Experience
+## Work Experience
 
 - Postdoc Fellow,  2023.08 - Now
   - The Hong Kong Polytechnic University
@@ -25,7 +26,7 @@ I am interested in the representation learning and causal inference problems.
 
 
 
-# Education
+## Education
 
 - Ph.D in Statistics, Shanghai University of Finance and Economics, 2017.09 - 2023.06
   - Ph.D Thesis: "Model Structure Learning for High Dimensional Complex Data".
@@ -36,7 +37,7 @@ I am interested in the representation learning and causal inference problems.
 
 
 
-# Research Interests
+## Research Interests
 - Deep Generative Modeling
 - Representation Learning
 - Causal Inference

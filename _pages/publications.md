@@ -31,8 +31,6 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 ## Working Papers
 
 
-
-
 1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
 Online Inference under Over-Parameterized Model with Hidden Confounders.
 *Revision Invited*.
