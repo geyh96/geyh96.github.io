@@ -16,7 +16,7 @@ author_profile: true
 
 - Teaching Experience
   - Teaching Assistant
-    - PhD Course: Linear Model,(2019 fall,2021 fall)
+    - PhD Course: Linear Model
     - Undergraduate Courses: Probability Theory, Computer programming(C language), Machine Learning, Introduction to Econometrics
 
 - Referee Service for: 
