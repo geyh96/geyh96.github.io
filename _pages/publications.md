@@ -10,7 +10,7 @@ author_profile: true
 
 1. **Yeheng Ge**, Tao Li, Xingdong Feng, Mengyun Wu, Hailong Liu (2024). 
 Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
-*Biometrics*, 80, ujae158.
+    - *Biometrics*, 80, ujae158.
 
 
 1. **Yeheng Ge**, Sijia Zhang, Xiao Zhang (2024). 
