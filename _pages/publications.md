@@ -61,17 +61,12 @@ Treatment Effect Inference with Many Instruments and Many Control Variables.
 
 
 
+
 2. Yuan Gao, **Yeheng Ge**, Jian Huang.
 Sufficient Representation Learning with Diffusion Models.
 *In* *Progess*.
 (Alphabetical Order).
 
-
-
-2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
-Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
-*Submitted*.
-(Alphabetical Order).
 
 
 
@@ -80,3 +75,15 @@ Treatment Effect Estimation with Sufficient Representation  Learning and Transfe
 *In* *Progess*.
 
 
+
+
+
+2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
+Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
+*Submitted*.
+(Alphabetical Order).
+
+1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
+Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
+*In* *Progess*.
+(Alphabetical Order)
