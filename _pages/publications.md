@@ -10,7 +10,7 @@ author_profile: true
 2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han.
 Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 **SIGKDD 2026**
-(Co-first Author, CCF-A conference).
+(Co-first Author, CCF-A Conference).
 
 
 1. **Yeheng Ge**, Tao Li, Xingdong Feng, Mengyun Wu, Hailong Liu (2024). 
