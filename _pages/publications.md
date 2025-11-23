@@ -84,6 +84,6 @@ Uniform Inference for Online Functional M-estimator with Stochastic Gradient Des
 (Alphabetical Order).
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
-Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
+Causal Structural Learning for GWAS Summary Data  under Hidden Confounding.
 *In* *Progess*.
 (Alphabetical Order)
