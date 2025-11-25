@@ -14,8 +14,9 @@ redirect_from:
 
 Hi, My name is Yeheng GE(葛晔恒).
 
-I am now a Postdoc Fellow in Statistics.
-I am interested in the representation learning and causal inference problems.
+I am now a Postdoc Fellow in Hong Kong Polytechnic University.
+
+I on on the 2026 Job Market for faculty position in statistics.
 
 ## Work Experience
 
@@ -38,8 +39,12 @@ I am interested in the representation learning and causal inference problems.
 
 
 ## Research Interests
+
+
 - Deep Generative Modeling
+
 - Representation Learning
+
 - Causal Inference
 
 <!-- 
@@ -47,7 +52,5 @@ I am interested in the representation learning and causal inference problems.
 "等我三十五岁再来评判我的职业生涯"
 "学术KPI是：每年被拒至少五次"
 -->
-
-
 
 
