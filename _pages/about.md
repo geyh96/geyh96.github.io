@@ -14,16 +14,13 @@ redirect_from:
 
 Hi, My name is Yeheng GE(葛晔恒).
 
-I am now a Postdoc Fellow in Hong Kong Polytechnic University.
-
-I on on the 2026 Job Market for faculty position in statistics.
+I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University and will be on the 2026 faculty job market for positions in statistics.
 
 ## Work Experience
 
 - Postdoc Fellow,  2023.08 - Now
   - The Hong Kong Polytechnic University
   - PostDoc Advisor: Prof. Jian HUANG.
-
 
 
 
