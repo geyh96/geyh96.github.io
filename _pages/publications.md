@@ -41,6 +41,7 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
 Online Inference under Over-Parameterized Model with Hidden Confounders.
 *Revision Invited*.
+**Journal of Royal Statistical Society: Series B**
 (Corresponding Author, Alphabetical Order).
 
 
@@ -49,6 +50,7 @@ Online Inference under Over-Parameterized Model with Hidden Confounders.
 Transfer Learning through Enhanced Sufficient Representation: 
 Enriching Source Domain Knowledge with Target Data
 *Revision Invited*.
+**Journal of Royal Statistical Society: Series B**
 (Co-first Author)
 
 
