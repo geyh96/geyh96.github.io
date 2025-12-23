@@ -7,6 +7,26 @@ author_profile: true
 
 ## Publications
 
+
+1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
+Online Inference under Over-Parameterized Model with Hidden Confounders.
+*Revision Invited*.
+**Journal of Royal Statistical Society: Series B**
+(Corresponding Author, Alphabetical Order).
+
+
+
+1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
+Transfer Learning through Enhanced Sufficient Representation: 
+Enriching Source Domain Knowledge with Target Data
+*Revision Invited*.
+**Journal of Royal Statistical Society: Series B**
+(Co-first Author)
+
+
+
+
+
 2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han.
 Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 **SIGKDD 2026**
@@ -38,23 +58,6 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 
 
 
-1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
-Online Inference under Over-Parameterized Model with Hidden Confounders.
-*Revision Invited*.
-**Journal of Royal Statistical Society: Series B**
-(Corresponding Author, Alphabetical Order).
-
-
-
-1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
-Transfer Learning through Enhanced Sufficient Representation: 
-Enriching Source Domain Knowledge with Target Data
-*Revision Invited*.
-**Journal of Royal Statistical Society: Series B**
-(Co-first Author)
-
-
-
 
 1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.
 Treatment Effect Inference with Many Instruments and Many Control Variables.
@@ -64,16 +67,16 @@ Treatment Effect Inference with Many Instruments and Many Control Variables.
 
 
 
-2. Yuan Gao, **Yeheng Ge**, Jian Huang.
-Sufficient Representation Learning with Diffusion Models.
+
+1. **Yeheng Ge**, Junyi Li, Jian Huang, min-ge Xie.
+Predictive Inference with Repro Sample Method
 *In* *Progess*.
 (Alphabetical Order).
 
 
 
-
 1. **Yeheng Ge**, Jian Huang.
-Treatment Effect Estimation with Sufficient Representation  Learning and Transfer.
+Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
 *In* *Progess*.
 
 
@@ -86,6 +89,6 @@ Uniform Inference for Online Functional M-estimator with Stochastic Gradient Des
 (Alphabetical Order).
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
-Causal Structural Learning for GWAS Summary Data  under Hidden Confounding.
-*In* *Progess*.
+Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
+*Submitted*.
 (Alphabetical Order)
