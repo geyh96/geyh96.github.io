@@ -68,7 +68,7 @@ Treatment Effect Inference with Many Instruments and Many Control Variables.
 
 
 
-1. **Yeheng Ge**, Junyi Li, Jian Huang, min-ge Xie.
+1. **Yeheng Ge**, Junyi Li, Jian Huang, Min-ge Xie.
 Predictive Inference with Repro Sample Method
 *In* *Progess*.
 (Alphabetical Order).
