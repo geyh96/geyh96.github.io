@@ -10,7 +10,7 @@ author_profile: true
 
 1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
 Online Inference under Over-Parameterized Model with Hidden Confounders.
-*Revision Invited*.
+*Revision Submitted*.
 **Journal of Royal Statistical Society: Series B**
 (Corresponding Author, Alphabetical Order).
 
@@ -22,7 +22,6 @@ Enriching Source Domain Knowledge with Target Data
 *Revision Invited*.
 **Journal of Royal Statistical Society: Series B**
 (Co-first Author)
-
 
 
 
