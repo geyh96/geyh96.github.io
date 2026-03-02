@@ -93,3 +93,15 @@ Uniform Inference for Online Functional M-estimator with Stochastic Gradient Des
 Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
 *Submitted*.
 (Alphabetical Order)
+
+
+
+3. Shengjie NIU, Zebin YUN,  **Yeheng GE**, Jian HUANG
+Optimal Membership Inference via Pairwise Likelihood Ratios.
+*Submitted*.
+
+
+3. Shengjie NIU, **Yeheng GE**, Jian HUANG
+Statistical Membership Inference for Large Language Model.
+*Submitted*.
+(Co-first Author)

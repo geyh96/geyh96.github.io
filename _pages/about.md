@@ -16,6 +16,9 @@ Hi, My name is Yeheng GE(葛晔恒).
 
 I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, supported by Prof. Jian HUANG.
 
+
+
+
 ## Work Experience
 
 - Postdoc Fellow,  2023.08 - Now
@@ -42,7 +45,7 @@ I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, su
 
 - Representation Learning
 
-- Causal Inference
+- Statistical Inference with Deep Learning Methods
 
 <!-- 
 "清歌于漏舟之中，痛饮于焚屋之下，而不知覆溺之将及也，可哀也哉"
