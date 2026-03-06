@@ -19,7 +19,7 @@ Online Inference under Over-Parameterized Model with Hidden Confounders.
 1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
 Transfer Learning through Enhanced Sufficient Representation: 
 Enriching Source Domain Knowledge with Target Data
-*Revision Invited*.
+*Revision Submitted*.
 **Journal of Royal Statistical Society: Series B**
 (Co-first Author)
 
@@ -58,15 +58,6 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 
 
 
-1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.
-Treatment Effect Inference with Many Instruments and Many Control Variables.
-*Submitted*.
-(Alphabetical Order).
-
-
-
-
-
 1. **Yeheng Ge**, Junyi Li, Jian Huang, Min-ge Xie.
 Predictive Inference with Repro Sample Method
 *In* *Progess*.
@@ -83,15 +74,18 @@ Sufficient Representation Learning for Treatment Effect Estimation Integrating E
 
 2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
 Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
-*Submitted*.
+*In* *Progess*.
 (Alphabetical Order).
 
 
 
-1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
-Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
-*Submitted*.
-(Alphabetical Order)
+
+
+2. Shengjie NIU, **Yeheng GE**, Jian HUANG
+Statistical Membership Inference for Large Language Model.
+*In* *Progess*.
+(Co-first Author)
+
 
 
 
@@ -100,7 +94,28 @@ Optimal Membership Inference via Pairwise Likelihood Ratios.
 *Submitted*.
 
 
-3. Shengjie NIU, **Yeheng GE**, Jian HUANG
-Statistical Membership Inference for Large Language Model.
-*Submitted*.
-(Co-first Author)
+1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
+Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
+*In* *Progess*.
+(Alphabetical Order).
+
+
+
+1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.
+Treatment Effect Inference with Many Instruments and Many Control Variables.
+*In* *Progess*.
+(Alphabetical Order).
+
+
+1 **Yeheng GE**, Shouxia WANG, Jian HUANG, Songxi CHEN.
+Diffusion based Likelihood free inference for important parameter estimation in Large Scale OCean Models.
+*In* *Progess*.
+(Co-first Author).
+
+
+
+1. Xueyu Zhou,**Yeheng Ge** , Jian Huang.
+Deep Conditional Distribution Regression with Tail Risk Awareness.
+*In* *Progess*.
+(Co-first Author).
+
