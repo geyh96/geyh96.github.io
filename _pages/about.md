@@ -13,9 +13,8 @@ redirect_from:
 
 
 Hi, My name is Yeheng GE(葛晔恒).
-
 I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, supported by Prof. Jian HUANG.
-
+Before that, I got my Ph.D from Shanghai University of Finance and Economics, under the supervision of Prof. Xingdong FENG. Before that, I got my Bachelor Degree from Southwestern University of Finance and Economics.
 
 
 
