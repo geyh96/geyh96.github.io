@@ -66,7 +66,7 @@ Predictive Inference with Repro Sample Method
 
 1. **Yeheng Ge**, Jian Huang.
 Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
-*In* *Progess*.
+*In* *Preparation*.
 
 
 
@@ -74,17 +74,17 @@ Sufficient Representation Learning for Treatment Effect Estimation Integrating E
 
 2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
 Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
-*In* *Progess*.
+*Submitted*.
 (Alphabetical Order).
 
 
-
+<!-- 
 
 
 2. Shengjie NIU, **Yeheng GE**, Jian HUANG
 Statistical Membership Inference for Large Language Model.
 *In* *Progess*.
-(Co-first Author)
+(Co-first Author) -->
 
 
 
@@ -103,19 +103,19 @@ Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
 
 1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.
 Treatment Effect Inference with Many Instruments and Many Control Variables.
-*In* *Progess*.
+*Submitted*.
 (Alphabetical Order).
 
-
+<!-- 
 1 **Yeheng GE**, Shouxia WANG, Jian HUANG, Songxi CHEN.
 Diffusion based Likelihood free inference for important parameter estimation in Large Scale OCean Models.
 *In* *Progess*.
-(Co-first Author).
+(Co-first Author). -->
 
-
+<!-- 
 
 1. Xueyu Zhou,**Yeheng Ge** , Jian Huang.
 Deep Conditional Distribution Regression with Tail Risk Awareness.
 *In* *Progess*.
-(Co-first Author).
+(Co-first Author). -->
 
