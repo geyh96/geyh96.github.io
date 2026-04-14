@@ -16,13 +16,6 @@ Online Inference under Over-Parameterized Model with Hidden Confounders.
 
 
 
-1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
-Transfer Learning through Enhanced Sufficient Representation: 
-Enriching Source Domain Knowledge with Target Data
-*Revision Submitted*.
-**Journal of Royal Statistical Society: Series B**
-(Co-first Author)
-
 
 
 
@@ -56,6 +49,13 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 ## Working Papers
 
 
+1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
+Transfer Learning through Enhanced Sufficient Representation: 
+Enriching Source Domain Knowledge with Target Data
+*Revision Submitted*.
+**Journal of Royal Statistical Society: Series B**
+(Co-first Author)
+
 
 
 1. **Yeheng Ge**, Junyi Li, Jian Huang, Min-ge Xie.
@@ -67,8 +67,6 @@ Predictive Inference with Repro Sample Method
 1. **Yeheng Ge**, Jian Huang.
 Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
 *In* *Preparation*.
-
-
 
 
 
