@@ -8,18 +8,15 @@ author_profile: true
 ## Publications
 
 
-1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu.
+1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu (2026).
 Online Inference under Over-Parameterized Model with Hidden Confounders.
-*Revision Submitted*.
 **Journal of Royal Statistical Society: Series B**
 (Corresponding Author, Alphabetical Order).
 
 
 
 
-
-
-2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han.
+2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han (2026).
 Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 **SIGKDD 2026**
 (Co-first Author, CCF-A Conference).
@@ -57,7 +54,6 @@ Enriching Source Domain Knowledge with Target Data
 (Co-first Author)
 
 
-
 1. **Yeheng Ge**, Junyi Li, Jian Huang, Min-ge Xie.
 Predictive Inference with Repro Sample Method
 *In* *Progess*.
@@ -69,21 +65,10 @@ Sufficient Representation Learning for Treatment Effect Estimation Integrating E
 *In* *Preparation*.
 
 
-
 2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
 Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
 *Submitted*.
 (Alphabetical Order).
-
-
-<!-- 
-
-
-2. Shengjie NIU, **Yeheng GE**, Jian HUANG
-Statistical Membership Inference for Large Language Model.
-*In* *Progess*.
-(Co-first Author) -->
-
 
 
 
