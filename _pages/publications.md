@@ -19,8 +19,6 @@ Online Inference under Over-Parameterized Model with Hidden Confounders.
 (Corresponding Author, Alphabetical Order).
 
 
-
-
 2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han (2026).
 Learning Guarantee for Reward Modeling with Deep Nerual Networks.
 **SIGKDD 2026**
@@ -50,6 +48,9 @@ Bi-level Structured Functional Analysis for Genome-wide Association Studies.
 
 ## Working Papers
 
+1. **Yeheng Ge**, Jian Huang, Shuyuan Wu.
+Privacy Guaranteed Deep Regression with Noisy Stochastic Gradient Descent.
+*In* *Preparation*.
 
 1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
 Transfer Learning through Enhanced Sufficient Representation: 
@@ -64,25 +65,19 @@ Predictive Inference with Repro Sample Method
 *In* *Progess*.
 
 
-
 1. **Yeheng Ge**, Jian Huang.
 Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
 *In* *Preparation*.
-
 
 2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
 Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
 *Submitted*.
 (Alphabetical Order).
 
-
-
-
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
 Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
 *In* *Progess*.
 (Alphabetical Order).
-
 
 
 1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.

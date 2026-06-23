@@ -20,7 +20,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 ## Work Experience
 
-- Postdoc Fellow,  2023.08 - Now
+- Postdoc Fellow,  2023.08 - 2027.01
   - The Hong Kong Polytechnic University
   - PostDoc Advisor: Prof. Jian HUANG.
 
@@ -29,7 +29,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 ## Education
 
 - Ph.D in Statistics, Shanghai University of Finance and Economics, 2017.09 - 2023.06
-  - Ph.D Thesis: "Model Structure Learning for High Dimensional Complex Data".
+  <!-- - Ph.D Thesis: "Model Structure Learning for High Dimensional Complex Data". -->
   - Ph.D Supervisor: Prof. Xingdong FENG.
 - B.A in Statistics, Southwestern University of Finance and Economics, 2013.09 - 2017.06
 
@@ -44,7 +44,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 - Representation Learning
 
-- Statistical Inference with Deep Learning Methods
+- Online Inference for Complex Data
 
 <!-- 
 "清歌于漏舟之中，痛饮于焚屋之下，而不知覆溺之将及也，可哀也哉"
