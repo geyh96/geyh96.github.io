@@ -7,6 +7,11 @@ author_profile: true
 
 ## Publications
 
+3. Shengjie NIU, Zebin YUN,  **Yeheng GE**, Jian HUANG
+Optimal Membership Inference via Pairwise Likelihood Ratios.
+Under Review.
+***Presented in STAI-X 2026 Conference, Paper Award***.
+
 
 1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu (2026).
 Online Inference under Over-Parameterized Model with Hidden Confounders.
@@ -71,10 +76,6 @@ Uniform Inference for Online Functional M-estimator with Stochastic Gradient Des
 (Alphabetical Order).
 
 
-
-3. Shengjie NIU, Zebin YUN,  **Yeheng GE**, Jian HUANG
-Optimal Membership Inference via Pairwise Likelihood Ratios.
-*Submitted*.
 
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
