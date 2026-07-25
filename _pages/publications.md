@@ -4,97 +4,73 @@ permalink: /publications/
 author_profile: true
 ---
 
-
 ## Publications
 
-3. Shengjie NIU, Zebin YUN,  **Yeheng GE**, Jian HUANG
-Optimal Membership Inference via Pairwise Likelihood Ratios.
-Under Review.
-***Presented in STAI-X 2026 Conference, Paper Award***.
+1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Tao LI, and Mengyun WU. (2026).
+   Online Inference under Over-parameterized Model with Hidden Confounders.
+   **Journal of the Royal Statistical Society: Series B**
+   (Corresponding Author; Alphabetical Order).
 
+2. Yuanhang LUO, **Yeheng GE**, Ruijian HAN, Guohao SHEN. (2026).
+   Learning Guarantee of Reward Modeling Using Deep Neural Networks.
+   **SIGKDD 2026**
+   (Co-first Author, CCF-A Conference).
 
-1. Shuyan Chen, Xingdong Feng, **Yeheng Ge**, Tao Li, Mengyun Wu (2026).
-Online Inference under Over-Parameterized Model with Hidden Confounders.
-**Journal of Royal Statistical Society: Series B**
-(Corresponding Author, Alphabetical Order).
+3. **Yeheng GE**, Tao LI, Xingdong FENG, Mengyun WU, and Hailong LIU. (2024).
+   Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
+   **Biometrics**, 80(4), ujae158.
 
+4. **Yeheng GE**, Sijia ZHANG, and Xiao ZHANG. (2024).
+   False Discovery Control for High Dimensional Cox Model with Uneven Sample Split.
+   **Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
+   (Alphabetical Order).
 
-2. Yuanhang Luo, **Yeheng Ge**, Guohao Shen, Ruijian Han (2026).
-Learning Guarantee for Reward Modeling with Deep Nerual Networks.
-**SIGKDD 2026**
-(Co-first Author, CCF-A Conference).
+5. Xin HE, **Yeheng GE**, and Xingdong FENG. (2023).
+   Structure Learning via Unstructured M-regression.
+   **Electronic Journal of Statistics**, 17(2): 2386-2415.
 
-
-1. **Yeheng Ge**, Tao Li, Xingdong Feng, Mengyun Wu, Hailong Liu (2024). 
-Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
-**Biometrics**, 80, ujae158.
-
-
-1. **Yeheng Ge**, Sijia Zhang, Xiao Zhang (2024). 
-False Discovery Rate Control for High Dimensional Cox Model with Uneven Data Splitting.
-**Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
-(Alphabetical Order).
-
-
-2. Xin He, **Yeheng Ge**,  Xingdong Feng (2023). 
-Structure Learning via Unstructured Kernel-based M-estimation.
-**Electronic Journal of Statistics**, 17(2): 2386-2415.
-
-
-3. Mengyun Wu, Fan Wang, **Yeheng Ge**, Shuangge Ma, Yang Li (2023). 
-Bi-level Structured Functional Analysis for Genome-wide Association Studies.
-**Biometrics**, 79, 3359–3373.
-
+6. Mengyun WU, Fan WANG, **Yeheng GE**, Shuangge MA, and Yang LI. (2023).
+   Bi-level Structured Functional Analysis for Genome-wide Association Studies.
+   **Biometrics**, 79, 3359–3373.
 
 ## Working Papers
 
-1. **Yeheng Ge**, Jian Huang, Shuyuan Wu.
-Privacy Guaranteed Deep Regression with Noisy Stochastic Gradient Descent.
-*In* *Preparation*.
+1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
+   Transfer Learning through Enhanced Sufficient Representation:
+   Enriching Source Domain Knowledge with Target Data.
+   **Revision Submitted** in **Journal of the Royal Statistical Society: Series B**
+   (Co-first Author).
 
-1. **Yeheng Ge**, Xueyu Zhou, Jian Huang.
-Transfer Learning through Enhanced Sufficient Representation: 
-Enriching Source Domain Knowledge with Target Data
-*Revision Submitted*.
-**Journal of Royal Statistical Society: Series B**
-(Co-first Author)
+2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
+   Optimal Membership Inference via Pairwise Likelihood Ratios.
+   **Submitted to Annals of Applied Statistics.**
+   (STAI-X 2026 Conference Paper Award).
 
+3. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
+   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.
+   **Submitted**
+   (Alphabetical Order).
 
-1. **Yeheng Ge**, Junyi Li, Jian Huang, Min-ge Xie.
-Predictive Inference with Repro Sample Method
-*In* *Progess*.
+4. **Yeheng GE** and Jian HUANG.
+   Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
+   **In Preparation**.
 
+5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+   Statistical Membership Inference for Large Language Model.
+   **In Progress**
+   (Co-first Author).
 
-1. **Yeheng Ge**, Jian Huang.
-Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
-*In* *Preparation*.
+6. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
+   Prediction Powered Training for Semi-Supervised Generative Models.
+   **In Preparation**
+   (Co-first Author).
 
-2. Jiguo Cao, **Yeheng Ge**, Hua Liu, Zihan Lou, Jinhong You.
-Uniform Inference for Online Functional M-estimator with Stochastic Gradient Descent.
-*Submitted*.
-(Alphabetical Order).
+7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
+   Uniform Inference for Online Functional M-estimator.
+   **Submitted**
+   (Alphabetical Order).
 
-1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Xueqin WANG,
-Causal Structural Learning with Hidden Confounders using GWAS Summary Data.
-*In* *Progess*.
-(Alphabetical Order).
-
-
-1. Xiduo Chen,  Xingdong Feng, Antonio Galvao, **Yeheng Ge**.
-Treatment Effect Inference with Many Instruments and Many Control Variables.
-*Submitted*.
-(Alphabetical Order).
-
-<!-- 
-1 **Yeheng GE**, Shouxia WANG, Jian HUANG, Songxi CHEN.
-Diffusion based Likelihood free inference for important parameter estimation in Large Scale OCean Models.
-*In* *Progess*.
-(Co-first Author). -->
-
-<!-- 
-
-1. Xueyu Zhou,**Yeheng Ge** , Jian Huang.
-Deep Conditional Distribution Regression with Tail Risk Awareness.
-*In* *Progess*.
-(Co-first Author). -->
-
+8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
+   Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
+   **Submitted**
+   (Alphabetical Order).
