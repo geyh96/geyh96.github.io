@@ -20,7 +20,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 ## Work Experience
 
-- Postdoc Fellow,  2023.08 - 2027.01
+- Postdoc Fellow,  2023.08 - Now
   - The Hong Kong Polytechnic University
   - PostDoc Advisor: Prof. Jian HUANG.
 
