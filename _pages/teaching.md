@@ -10,6 +10,7 @@ author_profile: true
   - geyh96 [at] foxmail.com
 
 - Presentation
+  - ICSA China Conference Invited Session Talk, 2026.6, Sustech, Shenzhen
   - NSFC Tianyuan Workshop on Mathematical Foundations of Artificial Intelligence, Invited Session Talk, 2024.09,  Kunming
   - EcoSta 2024, Invited Session Talk,  2024, Beijing Normal University, Beijing
   - YEAP, Meeting of Young Econometricians in Asia-Pacific Regions, 2023, SOE-FDU,Shanghai
