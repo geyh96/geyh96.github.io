@@ -14,6 +14,7 @@ redirect_from:
 
 Hi, My name is Yeheng GE(葛晔恒).
 I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, supported by Prof. [Jian HUANG](https://sites.google.com/view/prof-jian-huang).
+
 Before that, I got my Ph.D from Shanghai University of Finance and Economics, under the supervision of Prof. [Xingdong FENG](https://ddgene.github.io). Before that, I got my Bachelor Degree from Southwestern University of Finance and Economics.
 
 
@@ -45,7 +46,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 - Representation Learning
 
-- Online Inference for Complex Data
+- Streaming data analysis including online inference and statistical analysis based on  SGD type algorithms.
 
 <!-- 
 "清歌于漏舟之中，痛饮于焚屋之下，而不知覆溺之将及也，可哀也哉"
@@ -87,7 +88,8 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation:
    Enriching Source Domain Knowledge with Target Data.
-   **Revision Submitted** in **Journal of the Royal Statistical Society: Series B**
+   <!-- **Revision Submitted** in **Journal of the Royal Statistical Society: Series B** -->
+   **Submitted**
    (Co-first Author).
 
 7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
@@ -95,10 +97,15 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Submitted**
    (Alphabetical Order).
 
-8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
+5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+   Black-Box Membership Inference via Word-Level Probability Estimation.
+   **Submitted**
+   <!-- (Co-first Author). -->
+
+<!-- 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
    **Submitted**
-   (Alphabetical Order).
+   (Alphabetical Order). -->
 
 
 <!-- 
