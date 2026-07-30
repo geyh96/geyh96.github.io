@@ -5,6 +5,10 @@ permalink: /Misc/
 author_profile: true
 ---
 
+- Email: 
+  <!-- - yeheng.ge [at] polyu.edu.hk -->
+  - geyh96 [at] foxmail.com
+
 - Presentation
   - NSFC Tianyuan Workshop on Mathematical Foundations of Artificial Intelligence, Invited Session Talk, 2024.09,  Kunming
   - EcoSta 2024, Invited Session Talk,  2024, Beijing Normal University, Beijing
@@ -22,6 +26,7 @@ author_profile: true
 - Referee Service for: 
   - Journal of American Statistical Association
   - Journal of Royal Statistical Society: Series B
+  - INFORMS Journal on Computing
   - Statistica Sinica
   - Electronic Journal of Statistics
   - Statistical inference and its Interface
