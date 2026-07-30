@@ -122,7 +122,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 6. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
-   (Co-first Author). -->
+   (Co-first Author). 
+   
+6. **Yeheng GE**, Jiayi HUANG and Xingdong FENG.
+   Adaptive Curve-Aligned Transfer Learning for Quantile Regression.
+   **Submitted**
+   -->
 
 
 
