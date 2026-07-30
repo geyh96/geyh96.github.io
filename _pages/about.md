@@ -58,29 +58,35 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Tao LI, and Mengyun WU. (2026).
    Online Inference under Over-parameterized Model with Hidden Confounders.
+
    **Journal of the Royal Statistical Society: Series B**
    (Corresponding Author; Alphabetical Order).
 
 2. Yuanhang LUO, **Yeheng GE**, Ruijian HAN, Guohao SHEN. (2026).
    Learning Guarantee of Reward Modeling Using Deep Neural Networks.
+   
    **SIGKDD 2026**
    (Co-first Author, CCF-A Conference).
 
 3. **Yeheng GE**, Tao LI, Xingdong FENG, Mengyun WU, and Hailong LIU. (2024).
    Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
+   
    **Biometrics**, 80(4), ujae158.
 
 4. **Yeheng GE**, Sijia ZHANG, and Xiao ZHANG. (2024).
    False Discovery Control for High Dimensional Cox Model with Uneven Sample Split.
+   
    **Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
    (Alphabetical Order).
 
 5. Xin HE, **Yeheng GE**, and Xingdong FENG. (2023).
    Structure Learning via Unstructured M-regression.
+   
    **Electronic Journal of Statistics**, 17(2): 2386-2415.
 
 6. Mengyun WU, Fan WANG, **Yeheng GE**, Shuangge MA, and Yang LI. (2023).
    Bi-level Structured Functional Analysis for Genome-wide Association Studies.
+   
    **Biometrics**, 79, 3359–3373.
 
 ## Working Papers
@@ -89,11 +95,13 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Transfer Learning through Enhanced Sufficient Representation:
    Enriching Source Domain Knowledge with Target Data.
    <!-- **Revision Submitted** in **Journal of the Royal Statistical Society: Series B** -->
+   
    **Submitted**
    (Co-first Author).
 
 7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
    Uniform Inference for Online Functional M-estimator.
+   
    **Submitted**
    (Alphabetical Order).
 
