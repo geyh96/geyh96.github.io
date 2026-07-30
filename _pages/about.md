@@ -40,9 +40,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 - Deep Generative Modeling
-
 - Representation Learning
-
 - Streaming data analysis including online inference and statistical analysis based on  SGD type algorithms.
 
 
@@ -111,11 +109,6 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Optimal Membership Inference via Pairwise Likelihood Ratios.
    **Submitted to Annals of Applied Statistics.**
    (STAI-X 2026 Conference Paper Award).
-
-3. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
-   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.
-   **Submitted**
-   (Alphabetical Order).
 
 4. **Yeheng GE** and Jian HUANG.
    Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
