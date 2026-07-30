@@ -57,56 +57,53 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 ## Publications
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Tao LI, and Mengyun WU. (2026).
-   Online Inference under Over-parameterized Model with Hidden Confounders.
-
+   Online Inference under Over-parameterized Model with Hidden Confounders.  
    **Journal of the Royal Statistical Society: Series B**
    (Corresponding Author; Alphabetical Order).
 
 2. Yuanhang LUO, **Yeheng GE**, Ruijian HAN, Guohao SHEN. (2026).
-   Learning Guarantee of Reward Modeling Using Deep Neural Networks.
-   
+   Learning Guarantee of Reward Modeling Using Deep Neural Networks.  
    **SIGKDD 2026**
    (Co-first Author, CCF-A Conference).
 
 3. **Yeheng GE**, Tao LI, Xingdong FENG, Mengyun WU, and Hailong LIU. (2024).
-   Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.
-   
+   Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.  
    **Biometrics**, 80(4), ujae158.
 
 4. **Yeheng GE**, Sijia ZHANG, and Xiao ZHANG. (2024).
-   False Discovery Control for High Dimensional Cox Model with Uneven Sample Split.
-   
+   False Discovery Control for High Dimensional Cox Model with Uneven Sample Split.  
    **Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
    (Alphabetical Order).
 
 5. Xin HE, **Yeheng GE**, and Xingdong FENG. (2023).
-   Structure Learning via Unstructured M-regression.
-   
+   Structure Learning via Unstructured M-regression.  
    **Electronic Journal of Statistics**, 17(2): 2386-2415.
 
 6. Mengyun WU, Fan WANG, **Yeheng GE**, Shuangge MA, and Yang LI. (2023).
-   Bi-level Structured Functional Analysis for Genome-wide Association Studies.
-   
+   Bi-level Structured Functional Analysis for Genome-wide Association Studies.  
    **Biometrics**, 79, 3359–3373.
 
 ## Working Papers
 
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation:
-   Enriching Source Domain Knowledge with Target Data.
-   <!-- **Revision Submitted** in **Journal of the Royal Statistical Society: Series B** -->
-   
+   Enriching Source Domain Knowledge with Target Data.  
    **Submitted**
    (Co-first Author).
+   <!-- **Revision Submitted** in **Journal of the Royal Statistical Society: Series B** -->  
+
+3. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
+   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
+   **In Preparation**
+   (Alphabetical Order).
 
 7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
-   Uniform Inference for Online Functional M-estimator.
-   
+   Uniform Inference for Online Functional M-estimator.  
    **Submitted**
    (Alphabetical Order).
 
 5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-   Black-Box Membership Inference via Word-Level Probability Estimation.
+   Black-Box Membership Inference via Word-Level Probability Estimation.  
    **Submitted**
    <!-- (Co-first Author). -->
 
