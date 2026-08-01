@@ -100,12 +100,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
-   Optimal Membership Inference via Pairwise Likelihood Ratios.
+   Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Submitted to Annals of Applied Statistics.**
    (STAI-X 2026 Conference Paper Award).
 
 5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-   Statistical Membership Inference for Large Language Model.
+   Statistical Membership Inference for Large Language Model.  
    **In Progress**
    (Co-first Author).
 
