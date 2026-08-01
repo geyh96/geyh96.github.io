@@ -24,6 +24,7 @@ $baseScss = Get-Content -Raw -LiteralPath $baseScssPath
 $resetScss = Get-Content -Raw -LiteralPath $resetScssPath
 
 Assert-True ($variables -match '\$doc-font-size\s*:\s*16;') "Base font size must match the reference site"
+Assert-True ($variables -match '\$indent-var\s*:\s*1\.3em;') "Paragraph spacing must match the reference site"
 Assert-True ($variables -match '\$serif\s*:\s*Georgia, Times, serif;') "Serif stack must match the reference site"
 Assert-True ($variables -match '\$sans-serif\s*:\s*-apple-system, Palatino, "Palatino Linotype", "Palatino LT STD", Georgia, "source-han-serif-sc", "Source Han Serif SC", "Source Han Serif CN", "Source Han Serif TC", "Source Han Serif TW", "Source Han Serif", "Songti SC", "Microsoft YaHei", serif;') "Primary font stack must match the reference site"
 Assert-True ($variables -match '\$monospace\s*:\s*Monaco, Consolas, "Lucida Console", monospace;') "Code font stack must match the reference site"
