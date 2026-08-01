@@ -57,20 +57,20 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **SIGKDD 2026**
    (Co-first Author, CCF-A Conference).
 
-3. **Yeheng GE**, Tao LI, Xingdong FENG, Mengyun WU, and Hailong LIU. (2024).
+1. **Yeheng GE**, Tao LI, Xingdong FENG, Mengyun WU, and Hailong LIU. (2024).
    Structured Feature Ranking for Genomic Marker Identification Accommodating Multiple Types of Networks.  
    **Biometrics**, 80(4), ujae158.
 
-4. **Yeheng GE**, Sijia ZHANG, and Xiao ZHANG. (2024).
+1. **Yeheng GE**, Sijia ZHANG, and Xiao ZHANG. (2024).
    False Discovery Control for High Dimensional Cox Model with Uneven Sample Split.  
    **Journal of Statistical Computation and Simulation**, 94(7), 1462-1493.
    (Alphabetical Order).
 
-5. Xin HE, **Yeheng GE**, and Xingdong FENG. (2023).
+2. Xin HE, **Yeheng GE**, and Xingdong FENG. (2023).
    Structure Learning via Unstructured M-regression.  
    **Electronic Journal of Statistics**, 17(2): 2386-2415.
 
-6. Mengyun WU, Fan WANG, **Yeheng GE**, Shuangge MA, and Yang LI. (2023).
+3. Mengyun WU, Fan WANG, **Yeheng GE**, Shuangge MA, and Yang LI. (2023).
    Bi-level Structured Functional Analysis for Genome-wide Association Studies.  
    **Biometrics**, 79, 3359–3373.
 
@@ -83,17 +83,17 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    (Co-first Author).
    <!-- **Revision Submitted** in **Journal of the Royal Statistical Society: Series B** -->  
 
-3. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
+1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
    Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
    **In Preparation**
    (Alphabetical Order).
 
-7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
+1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
    Uniform Inference for Online Functional M-estimator.  
    **Submitted**
    (Alphabetical Order).
 
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+2. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
    Black-Box Membership Inference via Word-Level Probability Estimation.  
    **Submitted**
    <!-- (Co-first Author). -->
