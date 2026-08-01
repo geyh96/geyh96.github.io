@@ -98,7 +98,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Submitted**
    <!-- (Co-first Author). -->
 
-
+<!--
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Submitted to Annals of Applied Statistics.**
@@ -109,12 +109,10 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **In Progress**
    (Co-first Author).
 
-<!-- 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
+ 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
    **Submitted**
-   (Alphabetical Order). -->
-
-<!-- 
+   (Alphabetical Order). 
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
    Optimal Membership Inference via Pairwise Likelihood Ratios.
    **Submitted to Annals of Applied Statistics.**
