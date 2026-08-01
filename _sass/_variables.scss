@@ -14,8 +14,8 @@ $indent-var                 : 0.5em;
 
 /* system typefaces */
 $consolas                   : Courier, "Courier New", monospace;
-$serif                      : $consolas;
-$sans-serif                 : $consolas;
+$serif                      : $georgia;
+$sans-serif                 : $georgia;
 $monospace                  : $consolas;
 
 /* sans serif typefaces */
@@ -29,9 +29,9 @@ $bodoni                     : "Bodoni MT", serif;
 $calisto                    : "Calisto MT", serif;
 $garamond                   : Garamond, serif;
 
-$global-font-family         : $sans-serif;
-$header-font-family         : $sans-serif;
-$caption-font-family        : $serif;
+$global-font-family         : $georgia;
+$header-font-family         : $georgia;
+$caption-font-family        : $georgia;
 
 /* type scale */
 $type-size-1                : 2.441em;  // ~39.056px
