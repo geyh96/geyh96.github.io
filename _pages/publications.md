@@ -11,6 +11,10 @@ author_profile: true
    **Journal of the Royal Statistical Society: Series B**
    (Corresponding Author; Alphabetical Order).
 
+2. Shengjie Niu, **Yeheng GE** and Jian HUANG. (2026).
+Black-Box Membership Inference via Word-Level Probability Estimation.
+   **EMNLP 2026**.
+
 2. Yuanhang LUO, **Yeheng GE**, Ruijian HAN, Guohao SHEN. (2026).
    Learning Guarantee of Reward Modeling Using Deep Neural Networks.
    **SIGKDD 2026**
@@ -36,9 +40,8 @@ author_profile: true
 ## Working Papers
 
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
-   Transfer Learning through Enhanced Sufficient Representation:
-   Enriching Source Domain Knowledge with Target Data.
-   **Revision Submitted** in **Journal of the Royal Statistical Society: Series B**
+   Transfer Learning through Enhanced Sufficient Representation.
+   **Submitted**
    (Co-first Author).
 
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
@@ -70,7 +73,7 @@ author_profile: true
    **Submitted**
    (Alphabetical Order).
 
-8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
+8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
    **Submitted**
    (Alphabetical Order).
