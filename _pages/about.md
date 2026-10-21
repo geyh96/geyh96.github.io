@@ -52,6 +52,11 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Journal of the Royal Statistical Society: Series B**
    (Corresponding Author; Alphabetical Order).
 
+
+2. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+   Black-Box Membership Inference via Word-Level Probability Estimation.  
+   **EMNLP 2026**
+
 2. Yuanhang LUO, **Yeheng GE**, Ruijian HAN, Guohao SHEN. (2026).
    Learning Guarantee of Reward Modeling Using Deep Neural Networks.  
    **SIGKDD 2026**
@@ -93,12 +98,11 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Submitted**
    (Alphabetical Order).
 
-2. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-   Black-Box Membership Inference via Word-Level Probability Estimation.  
-   **Submitted**
-   <!-- (Co-first Author). -->
 
-<!--
+4. **Yeheng GE** and Jian HUANG.
+   Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
+   **In Preparation**.
+
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Submitted to Annals of Applied Statistics.**
@@ -109,23 +113,11 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **In Progress**
    (Co-first Author).
 
- 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Xueqin WANG.
+ 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
    **Submitted**
    (Alphabetical Order). 
-2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
-   Optimal Membership Inference via Pairwise Likelihood Ratios.
-   **Submitted to Annals of Applied Statistics.**
-   (STAI-X 2026 Conference Paper Award).
-
-4. **Yeheng GE** and Jian HUANG.
-   Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
-   **In Preparation**.
-
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-   Statistical Membership Inference for Large Language Model.
-   **In Progress**
-   (Co-first Author).
+<!--
 
 6. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
@@ -135,7 +127,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 6. **Yeheng GE**, Jiayi HUANG and Xingdong FENG.
    Adaptive Curve-Aligned Transfer Learning for Quantile Regression.
    **Submitted**
-   -->
+-->
 
 
 
