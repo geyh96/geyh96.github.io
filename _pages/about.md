@@ -109,7 +109,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
-   Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
+   Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.  
    **Submitted**
    (Alphabetical Order). 
 
