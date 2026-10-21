@@ -90,7 +90,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
    Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
-   **In Preparation**
+   **Submitted**
    (Alphabetical Order).
 
 1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
@@ -99,19 +99,19 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    (Alphabetical Order).
 
 
-4. **Yeheng GE** and Jian HUANG.
+<!-- 4. **Yeheng GE** and Jian HUANG.
    Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
-   **In Preparation**.
+   **In Preparation**. -->
 
 2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Submitted to Annals of Applied Statistics.**
    (STAI-X 2026 Conference Paper Award).
 
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+<!-- 5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
    Statistical Membership Inference for Large Language Model.  
    **In Progress**
-   (Co-first Author).
+   (Co-first Author). -->
 
  8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
