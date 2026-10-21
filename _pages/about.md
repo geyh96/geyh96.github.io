@@ -103,7 +103,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
    **In Preparation**. -->
 
-2. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
+3. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Submitted to Annals of Applied Statistics.**
    (STAI-X 2026 Conference Paper Award).
@@ -113,18 +113,18 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **In Progress**
    (Co-first Author). -->
 
- 8. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
+1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
    Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.
    **Submitted**
    (Alphabetical Order). 
 <!--
 
-6. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
+1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
    (Co-first Author). 
    
-6. **Yeheng GE**, Jiayi HUANG and Xingdong FENG.
+2. **Yeheng GE**, Jiayi HUANG and Xingdong FENG.
    Adaptive Curve-Aligned Transfer Learning for Quantile Regression.
    **Submitted**
 -->
