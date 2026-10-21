@@ -62,11 +62,11 @@ Black-Box Membership Inference via Word-Level Probability Estimation.
    Statistical Membership Inference for Large Language Model.
    **In Progress**
    (Co-first Author).
-
+<!-- 
 6. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
-   (Co-first Author).
+   (Co-first Author). -->
 
 7. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
    Uniform Inference for Online Functional M-estimator.
