@@ -18,7 +18,7 @@ I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, su
 Before that, I got my Ph.D from Shanghai University of Finance and Economics, under the supervision of Prof. [Xingdong FENG](https://ddgene.github.io). Before that, I got my Bachelor Degree from Southwestern University of Finance and Economics.
 
 
-
+- 2026.10.21: I am now on the academic job market.
 
 ## Work Experience
 
