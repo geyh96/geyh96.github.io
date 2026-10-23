@@ -13,7 +13,7 @@ redirect_from:
 
 
 Hi, My name is Yeheng GE(葛 晔恒).
-I work in the statistical analysis for randomized estimator, representation learning and statistical applications of LLM and generative modeling.
+I work on randomized estimation, representation learning, and statistical applications of LLMs and generative models.
 
 
 I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, supported by Prof. [Jian HUANG](https://sites.google.com/view/prof-jian-huang).
