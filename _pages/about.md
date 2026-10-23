@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-![](../images/webpage.jpg)
+<!-- ![](../images/webpage.jpg) -->
 
 
 
