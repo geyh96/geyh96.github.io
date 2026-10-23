@@ -38,14 +38,14 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
   <!-- - Ph.D Thesis: "Model Structure Learning for High Dimensional Complex Data". -->
 
+
+
+<!-- 
 ## Research Interests
-
-
 - Deep Generative Modeling
 - Representation Learning
 - Streaming data analysis including online inference and statistical analysis based on  SGD type algorithms.
-
-
+ -->
 
 ## Publications
 
