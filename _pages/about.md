@@ -13,7 +13,7 @@ redirect_from:
 
 
 Hi, My name is Yeheng GE(葛 晔恒).
-I work on streaming data analysis, representation learning, and statistical applications of LLMs and generative models.
+I work on streaming data analysis, representation learning, and statistical applications of generative models and LLMs.
 
 
 I am currently a Postdoctoral Fellow at The Hong Kong Polytechnic University, supported by Prof. [Jian HUANG](https://sites.google.com/view/prof-jian-huang).
