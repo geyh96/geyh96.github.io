@@ -40,13 +40,6 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 
-<!-- 
-## Research Interests
-- Deep Generative Modeling
-- Representation Learning
-- Streaming data analysis including online inference and statistical analysis based on  SGD type algorithms.
- -->
-
 ## Publications
 
 1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, Tao LI, and Mengyun WU. (2026).
@@ -82,6 +75,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Biometrics**, 79, 3359–3373.
 
 ## Working Papers
+
+3. Shengjie NIU, Zebin YUN, **Yeheng GE**, and Jian HUANG.
+   Optimal Membership Inference via Pairwise Likelihood Ratios.  
+   **Minor Revision in Annals of Applied Statistics.**
+   (Co-corresponding Author; STAI-X 2026 Conference Paper Award).
+
 
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation:
