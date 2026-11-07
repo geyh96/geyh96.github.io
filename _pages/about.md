@@ -101,7 +101,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 1. Fang CHEN, Shuyan CHEN, **Yeheng GE**, and Yuan LE.
-   Inference for a Semiparametric Additive Model with Generalized Hidden Confounders.
+   Inference for a Semiparametric Additive Model with Generalized Hidden Confounders.  
    **Submitted**
    (Alphabetical Order). 
 
