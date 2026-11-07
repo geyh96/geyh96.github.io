@@ -113,6 +113,14 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 <!-- 
+
+
+5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+  A Statistical Framework for Training Data Auditing in Large Language Model.  
+   **Submitted**
+   (Co-first Author).
+
+
 1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
@@ -122,10 +130,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Adaptive Curve-Aligned Transfer Learning for Quantile Regression.
    **Submitted**
 
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-   Statistical Membership Inference for Large Language Model.  
-   **In Progress**
-   (Co-first Author).
+
 4. **Yeheng GE** and Jian HUANG.
    Sufficient Representation Learning for Treatment Effect Estimation Integrating External Data.
    **In Preparation**. -->
