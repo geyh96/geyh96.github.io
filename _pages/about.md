@@ -85,9 +85,13 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation:
    Enriching Source Domain Knowledge with Target Data.  
-   **Submitted**
+   **Completed**
    (Co-first Author).
 
+5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+  A Statistical Framework for Training Data Auditing in Large Language Model.  
+   **Completed**
+   (Co-first Author).
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
    Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
@@ -115,10 +119,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 <!-- 
 
 
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-  A Statistical Framework for Training Data Auditing in Large Language Model.  
-   **Submitted**
-   (Co-first Author).
+
 
 
 1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
