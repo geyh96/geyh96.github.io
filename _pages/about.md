@@ -98,6 +98,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Submitted**
    (Alphabetical Order).
 
+
+1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
+   Learning Deep Sufficient Representation with Differential Privacy Guarantee. 
+   **Completed**
+   (Alphabetical Order).
+
 1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
    Uniform Inference for Online Functional M-estimator.  
    **Submitted**
@@ -119,14 +125,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 <!-- 
 
 
-
-
-
 1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
    (Co-first Author). 
-   
+
+
 2. **Yeheng GE**, Jiayi HUANG and Xingdong FENG.
    Adaptive Curve-Aligned Transfer Learning for Quantile Regression.
    **Submitted**
