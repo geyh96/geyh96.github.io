@@ -100,7 +100,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
-   Learning Deep Sufficient Representation with Differential Privacy Guarantee. 
+   Learning Deep Sufficient Representation with Differential Privacy Guarantee.  
    **Completed**
    (Alphabetical Order).
 
