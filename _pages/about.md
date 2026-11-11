@@ -94,14 +94,15 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    (Co-first Author).
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
-   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
-   **Submitted**
-   (Alphabetical Order). -->
+   Learning Deep Sufficient Representation with Differential Privacy Guarantee.  
+   **Completed**
+   (Alphabetical Order).
+ -->
 
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
-   Learning Deep Sufficient Representation with Differential Privacy Guarantee.  
-   **Completed**
+   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
+   **Submitted**
    (Alphabetical Order).
 
 1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
