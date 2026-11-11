@@ -124,7 +124,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 
 
 1. Xiduo CHEN, Xingdong FENG, Antonio GALVAO, **Yeheng GE**.
-   Treatment Effects Inference with High-Dimensional Instruments and Control Variables.
+   Treatment Effects Inference with High-Dimensional Instruments and Control Variables.  
    **Major Revision** in **Oxford Bulletin of Economics and Statistics**
    (Alphabetical Order). 
 
