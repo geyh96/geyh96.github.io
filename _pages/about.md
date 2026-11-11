@@ -123,9 +123,13 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    (Alphabetical Order). 
 
 
+1. Xiduo CHEN, Xingdong FENG, Antonio GALVAO, **Yeheng GE**.
+   Treatment Effects Inference with High-Dimensional Instruments and Control Variables.
+   **Major Revision** in **Oxford Bulletin of Economics and Statistics**
+   (Alphabetical Order). 
+
+
 <!-- 
-
-
 1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
