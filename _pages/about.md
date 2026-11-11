@@ -81,7 +81,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Minor Revision in Annals of Applied Statistics.**
    (Co-corresponding Author; STAI-X 2026 Conference Paper Award).
 
-
+<!-- 
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation:
    Enriching Source Domain Knowledge with Target Data.  
@@ -96,7 +96,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
    Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
    **Submitted**
-   (Alphabetical Order).
+   (Alphabetical Order). -->
 
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
