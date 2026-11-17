@@ -84,9 +84,9 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Transfer Learning through Enhanced Sufficient Representation.  
    **Submitted**
    (Co-first Author).
+
+
 <!-- 
-
-
 5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
   A Statistical Framework for Training Data Auditing in Large Language Model.  
    **Completed**
