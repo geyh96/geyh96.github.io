@@ -80,13 +80,12 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Minor Revision in Annals of Applied Statistics.**
    (Co-corresponding Author; STAI-X 2026 Conference Paper Award).
-
-<!-- 
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
-   Transfer Learning through Enhanced Sufficient Representation:
-   Enriching Source Domain Knowledge with Target Data.  
-   **Completed**
+   Transfer Learning through Enhanced Sufficient Representation.  
+   **Submitted**
    (Co-first Author).
+<!-- 
+
 
 5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
   A Statistical Framework for Training Data Auditing in Large Language Model.  
