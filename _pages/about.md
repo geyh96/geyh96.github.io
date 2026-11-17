@@ -80,10 +80,36 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Optimal Membership Inference via Pairwise Likelihood Ratios.  
    **Minor Revision in Annals of Applied Statistics.**
    (Co-corresponding Author; STAI-X 2026 Conference Paper Award).
+
 1. **Yeheng GE**, Xueyu ZHOU, and Jian HUANG.
    Transfer Learning through Enhanced Sufficient Representation.  
    **Submitted**
    (Co-first Author).
+
+1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
+   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
+   **Submitted**
+   (Alphabetical Order).
+
+1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
+   Uniform Inference for Online Functional M-estimator.  
+   **Submitted**
+   (Alphabetical Order).
+
+1. Fang CHEN, Shuyan CHEN, **Yeheng GE**, and Yuan LE.
+   Inference for a Semiparametric Additive Model with Generalized Hidden Confounders.  
+   **Submitted**
+   (Alphabetical Order). 
+
+1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
+   Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.  
+   **Submitted**
+   (Alphabetical Order). 
+
+1. Xiduo CHEN, Xingdong FENG, Antonio GALVAO, **Yeheng GE**.
+   Treatment Effects Inference with High-Dimensional Instruments and Control Variables.  
+   **Major Revision** in **Oxford Bulletin of Economics and Statistics**
+   (Alphabetical Order). 
 
 
 <!-- 
@@ -96,39 +122,7 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    Learning Deep Sufficient Representation with Differential Privacy Guarantee.  
    **Completed**
    (Alphabetical Order).
- -->
 
-
-1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
-   Stochastic Gradient Langevin Dynamics for Deep Non-parametric Regressions with Applications to Differential Privacy Estimation.  
-   **Submitted**
-   (Alphabetical Order).
-
-1. Jiguo CAO, **Yeheng GE**, Hua LIU, Zihan LOU, and Jinhong YOU.
-   Uniform Inference for Online Functional M-estimator.  
-   **Submitted**
-   (Alphabetical Order).
-
-
-1. Fang CHEN, Shuyan CHEN, **Yeheng GE**, and Yuan LE.
-   Inference for a Semiparametric Additive Model with Generalized Hidden Confounders.  
-   **Submitted**
-   (Alphabetical Order). 
-
-
-1. Shuyan CHEN, Xingdong FENG, **Yeheng GE**, and Shaoli WANG.
-   Causal Structural Learning under Hidden Confounding with its Application to GWAS Summary Data.  
-   **Submitted**
-   (Alphabetical Order). 
-
-
-1. Xiduo CHEN, Xingdong FENG, Antonio GALVAO, **Yeheng GE**.
-   Treatment Effects Inference with High-Dimensional Instruments and Control Variables.  
-   **Major Revision** in **Oxford Bulletin of Economics and Statistics**
-   (Alphabetical Order). 
-
-
-<!-- 
 1. Xueyu ZHOU, **Yeheng GE**, and Jian HUANG.
    Prediction Powered Training for Semi-Supervised Generative Models.
    **In Preparation**
