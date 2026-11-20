@@ -96,6 +96,11 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    **Submitted**
    (Alphabetical Order).
 
+5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
+  A Statistical Framework for Training Data Auditing in Large Language Model.  
+   **Completed**
+   (Co-first Author).
+
 1. Fang CHEN, Shuyan CHEN, **Yeheng GE**, and Yuan LE.
    Inference for a Semiparametric Additive Model with Generalized Hidden Confounders.  
    **Submitted**
@@ -112,11 +117,9 @@ Before that, I got my Ph.D from Shanghai University of Finance and Economics, un
    (Alphabetical Order). 
 
 
+
 <!-- 
-5. Shengjie NIU, **Yeheng GE**, and Jian HUANG.
-  A Statistical Framework for Training Data Auditing in Large Language Model.  
-   **Completed**
-   (Co-first Author).
+
 
 1. **Yeheng GE**, Jian HUANG, and Shuyuan WU.
    Learning Deep Sufficient Representation with Differential Privacy Guarantee.  
