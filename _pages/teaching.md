@@ -28,6 +28,7 @@ author_profile: true
 - Journal of American Statistical Association
 - Journal of Royal Statistical Society: Series B
 - INFORMS Journal on Computing
+- Journal of Machine Learning Research
 - Statistica Sinica
 - Electronic Journal of Statistics
 - Statistical inference and its Interface
